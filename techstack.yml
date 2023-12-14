@@ -1,7 +1,7 @@
 repo_name: jonathanMelly/ticTacToeCSharpConsoleForm
-report_id: 71b6ba34cefc1ff7700f7ba75c54c304
+report_id: ce8e928aa6a7db82bfdd48838c205907
 repo_type: Public
-timestamp: '2023-11-13T13:08:59+00:00'
+timestamp: '2023-12-14T10:35:19+00:00'
 requested_by: jonathanMelly
 provider: github
 branch: master
@@ -17,7 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6755/2c45151a4a11d3a3c8e71bb34dd069d6_400x400.png
-  detection_source_url: src/MorpionExtra/MorpionExtra.csproj
+  detection_source_url: https://github.com/jonathanMelly/ticTacToeCSharpConsoleForm/blob/master/src/MorpionExtra/MorpionExtra.csproj
   detection_source: src/MorpionExtra/MorpionExtra.csproj
   last_updated_by: Jonathan Melly
   last_updated_on: 2017-12-18 15:39:31.000000000 Z
@@ -42,7 +42,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
-  detection_source_url: src/MorpionExtra/MorpionExtra.csproj
+  detection_source_url: https://github.com/jonathanMelly/ticTacToeCSharpConsoleForm/blob/master/src/MorpionExtra/MorpionExtra.csproj
   detection_source: src/MorpionExtra/MorpionExtra.csproj
   last_updated_by: Jonathan Melly
   last_updated_on: 2017-12-18 15:39:31.000000000 Z
